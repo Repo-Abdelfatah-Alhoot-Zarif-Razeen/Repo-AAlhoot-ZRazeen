@@ -1,1 +1,1 @@
-// Main version
+class B {}
