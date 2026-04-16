@@ -1,1 +1,1 @@
-// Branch version
+class B {}
